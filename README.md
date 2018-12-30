@@ -1,5 +1,5 @@
 ### ctf_notifications
-A simple rss client built to scrape https://ctftime.com/
+A simple rss client built to scrape https://ctftime.org/
 
 ## Usage
 `./ctf_notifications`
